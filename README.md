@@ -10,17 +10,16 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-I'm **Yonatan Azmir**, a Bachelor's student in Computer Science at **Addis Ababa University (AAU)** 🇪🇹.  
-I love building clean, user-friendly web interfaces and diving deep into the world of Artificial Intelligence and Machine Learning.  
-My goal is to connect intelligent systems with beautiful, functional user experiences.
+Hey! I'm Yonatan Azmir from Ethiopia 🇪🇹, studying Computer Science at AAU.
+I work on Frontend Development and study AI and Machine Learning.
+I like building things that actually work and make sense.
 
 - 🎓 CS Bachelor Student @ **Addis Ababa University**
 - 💻 Passionate about **Frontend Development** & **Machine Learning / AI**
-- 🌍 Based in **Addis Ababa, Ethiopia**
 - 🤝 Open to **collaborations** and **open-source contributions**
-- ⚡ Fun fact: I believe great UI and smart AI belong together
+
 
 ---
 
@@ -36,8 +35,8 @@ My goal is to connect intelligent systems with beautiful, functional user experi
 
 ### 🌱 Currently
 
-- 📚 Deepening my knowledge in **Deep Learning & Neural Networks**
-- 🧩 Exploring how **ML models** can power smart web applications
+Pursuing Machine Learning in depth
+Building my Frontend Development skills
 
 ---
 
